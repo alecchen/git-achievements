@@ -2,6 +2,7 @@
 <title>Alec Chen's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
 <item><title>Apprentice Traveler (Level 2)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
